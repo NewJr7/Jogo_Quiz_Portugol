@@ -65,7 +65,7 @@ programa
 				pausar()
 			}
 			
-			se(tema > 0 e tema < 10)
+			se(tema > 0 e tema <= 10)
 			{
 				se(tema != 0)
 				{
@@ -391,7 +391,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 7641; 
+ * @POSICAO-CURSOR = 684; 
  * @DOBRAMENTO-CODIGO = [12, 30, 168, 343, 377];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {tPerguntas, 172, 10, 10};
