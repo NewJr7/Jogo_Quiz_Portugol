@@ -1,5 +1,7 @@
 programa
 {
+	/// <<< Projeto Jogo Quiz 1.0 >>> ||| <<< By NewJr7 xD >>> ///
+	
 	inclua biblioteca Texto --> txt
 	inclua biblioteca Tipos --> tps
 	inclua biblioteca Arquivos --> arq
@@ -345,7 +347,7 @@ programa
 		inteiro cont, tam, linha = 1
 		inteiro inter, pos1, pos2, pos3, pos4, pos5, pos6
 		
-		arq = arq.abrir_arquivo("./QUIZ.txt", arq.MODO_LEITURA)
+		arq = arq.abrir_arquivo("./Quiz.txt", arq.MODO_LEITURA)
 		
 		para(cont = 0; cont < 100; cont++)
 		{
@@ -389,10 +391,10 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 215; 
- * @DOBRAMENTO-CODIGO = [10, 28, 166, 341, 375];
+ * @POSICAO-CURSOR = 7641; 
+ * @DOBRAMENTO-CODIGO = [12, 30, 168, 343, 377];
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {tPerguntas, 170, 10, 10};
+ * @SIMBOLOS-INSPECIONADOS = {tPerguntas, 172, 10, 10};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
