@@ -1,0 +1,100 @@
+Qual é o maior país da América do Sul? | Geografia | 2 | Argentina | Brasil | Colômbia | Peru
+Qual é a capital do Japão? | Geografia | 4 | Moscou | Pequim | Nova Delhi | Tóquio
+Qual é a maior floresta tropical do mundo? | Geografia | 1 | Amazônia | Sahara | Taiga | Everglades
+Qual é o país mais populoso da África? | Geografia | 4 | Austrália | Japão | México | Nigéria
+Qual é a cordilheira mais longa do mundo? | Geografia | 2 | Himalaia | Andes | Montanhas Rochosas | Alpes
+Qual é o maior deserto do mundo? | Geografia | 3 | Gobi | Atacama | Saara | Kalahari
+Qual é o maior rio do mundo em volume de água? | Geografia | 1 | Amazonas | Nilo | Yangtzé | Mississippi
+Qual é o país com maior área territorial do mundo? | Geografia | 3 | China | Canadá | Rússia | Estados Unidos
+Qual é o ponto mais alto da Terra? | Geografia | 1 | Monte Everest | Monte Kilimanjaro | Montanha Vinson | Monte McKinley
+Qual é o menor continente do mundo? | Geografia | 2 | Europa | Oceania | África | Antártida
+Em que ano Cristóvão Colombo chegou à América? | História | 1 | 1492 | 1776 | 1812 | 1914
+Qual rainha da Inglaterra ficou conhecida como "A Rainha Virgem"? | História | 2 | Cleópatra | Isabel I | Catarina, a Grande | Joana d'Arc
+Qual foi o período de intensas mudanças sociais e econômicas na Europa no século XVIII? | História | 1 | Revolução Industrial | Renascimento | Idade Média | Revolução Francesa
+Quem foi o líder da União Soviética durante a Segunda Guerra Mundial? | História | 4 | Mao Tsé-Tung | Adolf Hitler | Benito Mussolini | Joseph Stalin
+Qual conflito foi caracterizado pela rivalidade entre Estados Unidos e União Soviética? | História | 2 | Guerra do Vietnã | Guerra Fria | Primeira Guerra Mundial | Segunda Guerra Mundial
+Qual imperador romano ficou conhecido por incendiar Roma? | História | 3 | Calígula | Júlio César | Nero | Trajano
+Qual foi a primeira civilização mesopotâmica? | História | 1 | Sumérios | Babilônios | Assírios | Acádios
+Quem foi o primeiro presidente dos Estados Unidos? | História | 4 | John F. Kennedy | Abraham Lincoln | Thomas Jefferson | George Washington
+Qual evento marcou o fim da Guerra Fria? | História | 1 | Queda do Muro de Berlim | Revolução Russa | Crise dos Mísseis de Cuba | Dissolução da URSS
+Qual foi o período de intensas trocas comerciais e culturais entre Europa, África e Ásia? | História | 3 | Idade Média | Renascimento | Era dos Descobrimentos | Revolução Industrial
+Qual é o gás mais abundante na atmosfera terrestre? | Ciência | 2 | Oxigênio | Nitrogênio | Dióxido de Carbono | Hidrogênio
+Quem formulou as leis do movimento e a lei da gravitação universal? | Ciência | 1 | Isaac Newton | Albert Einstein | Galileu Galilei | Nikola Tesla
+Qual é a célula responsável pela transmissão de impulsos nervosos no corpo humano? | Ciência | 4 | Bactéria | Célula | Vírus | Neurônio
+Qual é a molécula responsável pelo armazenamento e transferência de informações genéticas? | Ciência | 2 | ATP | DNA | RNA | mRNA
+Qual é o nome do sistema que organiza os elementos químicos em uma tabela? | Ciência | 1 | Tabela Periódica | Teoria da Relatividade | Lei da Gravidade | Equação de Schrödinger
+Qual é a unidade básica de estrutura e função dos seres vivos? | Ciência | 2 | Átomo | Célula | Molécula | Gene
+Qual é o planeta mais próximo do Sol? | Ciência | 3 | Terra | Vênus | Mercúrio | Marte
+Qual é a principal fonte de energia do Sol? | Ciência | 3 | Combustíveis fósseis | Fissão nuclear | Fusão nuclear | Energia eólica
+Qual é o elemento químico mais abundante no universo? | Ciência | 1 | Hidrogênio | Oxigênio | Carbono | Ferro
+Qual é a velocidade da luz no vácuo? | Ciência | 4 | 671 milhas por hora | 186.282 milhas por segundo | 343 metros por segundo | 299.792.458 metros por segundo
+Qual esporte é conhecido como "o esporte mais popular do mundo"? | Esportes | 2 | Tênis | Futebol | Basquete | Vôlei
+Quem é considerado o maior jogador de basquete de todos os tempos? | Esportes | 1 | Michael Jordan | Kobe Bryant | LeBron James | Magic Johnson
+Qual é o nome do torneio de tênis disputado em Wimbledon? | Esportes | 3 | US Open | Roland Garros | Wimbledon Championships | Australian Open
+Em que país nasceu o esporte do vôlei? | Esportes | 2 | Brasil | Estados Unidos | Rússia | Canadá
+Qual é o nome do estádio mais famoso do Brasil, localizado no Rio de Janeiro? | Esportes | 3 | Morumbi | Nilton Santos | Maracanã | São Januário
+Quem é considerado o maior jogador de futebol de todos os tempos? | Esportes | 1 | Pelé | Diego Maradona | Lionel Messi | Cristiano Ronaldo
+Qual é o esporte em que se disputa a Copa do Mundo? | Esportes | 1 | Futebol | Rugby | Críquete | Hóquei
+Qual é o esporte em que se disputa o Super Bowl? | Esportes | 2 | Beisebol | Futebol americano | Basquete | Golfe
+Quem é considerado o maior jogador de beisebol de todos os tempos? | Esportes | 4 | Michael Jordan | Ted Williams | Mike Trout | Babe Ruth
+Em que país nasceu o esporte do rugby? | Esportes | 3 | Nova Zelândia | Austrália | Inglaterra | Estados Unidos
+Quem pintou a obra "Mona Lisa"? | Arte | 1 | Leonardo da Vinci | Michelangelo | Vincent van Gogh | Pablo Picasso
+Qual é o movimento artístico conhecido por suas obras abstratas? | Arte | 4 | Expressionismo | Cubismo | Surrealismo | Abstracionismo
+Quem escreveu a peça de teatro "Romeu e Julieta"? | Arte | 2 | Friedrich Nietzsche | William Shakespeare | Fyodor Dostoyevsky | Jane Austen
+Qual é o instrumento musical de cordas mais conhecido? | Arte | 1 | Violino | Piano | Guitarra | Flauta
+Quem compôs a famosa obra "A Quinta Sinfonia"? | Arte | 1 | Ludwig van Beethoven | Johann Sebastian Bach | Wolfgang Amadeus Mozart | Franz Schubert
+Quem é o autor do quadro "A Noite Estrelada"? | Arte | 4 | Claude Monet | Salvador Dalí | Pablo Picasso | Vincent van Gogh
+Qual é o nome da escultura mais famosa de Michelangelo? | Arte | 3 | Pietà | Vênus de Milo | Davi | O Pensador
+Quem é o autor da obra "O Grito"? | Arte | 2 | Salvador Dalí | Edvard Munch | Gustav Klimt | Frida Kahlo
+Qual é o estilo arquitetônico característico da Grécia Antiga? | Arte | 1 | Arquitetura Clássica | Arquitetura Gótica | Arquitetura Renascentista | Arquitetura Moderna
+Quem é o autor da obra "Guernica"? | Arte | 4 | Joan Miró | Diego Rivera | Frida Kahlo | Pablo Picasso
+Quem escreveu o livro "Dom Quixote"? | Literatura | 2 | William Shakespeare | Miguel de Cervantes | Charles Dickens | Fyodor Dostoyevsky
+Qual é o autor do livro "1984"? | Literatura | 1 | George Orwell | Aldous Huxley | Ray Bradbury | J.R.R. Tolkien
+Qual é o livro mais vendido de todos os tempos? | Literatura | 4 | Harry Potter e a Pedra Filosofal | O Pequeno Príncipe | Dom Quixote | Bíblia
+Quem escreveu o livro "Orgulho e Preconceito"? | Literatura | 3 | Virginia Woolf | Emily Brontë | Jane Austen | Charlotte Brontë
+Qual é o autor da série de livros "As Crônicas de Nárnia"? | Literatura | 2 | J.K. Rowling | C.S. Lewis | J.R.R. Tolkien | George R.R. Martin
+Quem é o autor do livro "Crime e Castigo"? | Literatura | 1 | Fyodor Dostoyevsky | Leo Tolstoy | Anton Chekhov | Nikolai Gogol
+Qual é o autor da obra "Romeu e Julieta"? | Literatura | 2 | Charles Dickens | William Shakespeare | Oscar Wilde | Mark Twain
+Quem é a autora do livro "Frankenstein"? | Literatura | 4 | Emily Dickinson | Virginia Woolf | Jane Austen | Mary Shelley
+Qual é o autor da trilogia "O Senhor dos Anéis"? | Literatura | 1 | J.R.R. Tolkien | C.S. Lewis | George Orwell | Aldous Huxley
+Quem escreveu o livro "O Grande Gatsby"? | Literatura | 3 | Truman Capote | Ernest Hemingway | F. Scott Fitzgerald | Harper Lee
+Quem é o autor da música "Bohemian Rhapsody"? | Música | 4 | Pink Floyd | The Beatles | Led Zeppelin | Queen
+Qual é o nome do cantor conhecido como "Rei do Pop"? | Música | 2 | Elvis Presley | Michael Jackson | Prince | Bob Marley
+Qual é a banda de rock conhecida por hits como "Stairway to Heaven" e "Kashmir"? | Música | 1 | Led Zeppelin | Rolling Stones | AC/DC | Nirvana
+Qual é o gênero musical originado nos Estados Unidos e conhecido por suas influências afro-americanas? | Música | 3 | Rock | Blues | Jazz | R&B
+Quem é a cantora conhecida como "Rainha do Soul"? | Música | 4 | Mariah Carey | Whitney Houston | Beyoncé | Aretha Franklin
+Qual é o instrumento musical mais antigo do mundo? | Música | 1 | Flauta | Tambor | Violino | Lira
+Qual é a banda de rock conhecida por hits como "Hotel California" e "Take It Easy"? | Música | 2 | Guns N' Roses | Eagles | U2 | Red Hot Chili Peppers
+Qual é o nome do cantor britânico conhecido por sucessos como "Shape of You" e "Thinking Out Loud"? | Música | 3 | Bruno Mars | Sam Smith | Ed Sheeran | Justin Bieber
+Quem é o guitarrista conhecido por sua performance na música "Eruption"? | Música | 1 | Eddie Van Halen | Jimi Hendrix | Eric Clapton | Jimmy Page
+Qual é o nome do instrumento musical de cordas com quatro cordas afinadas em quartas justas? | Música | 2 | Violão | Baixo | Guitarra | Harpa
+Qual é o nome do filme em que Leonardo DiCaprio interpreta um ladrão especialista em extrair informações do subconsciente das pessoas? | Filmes | 3 | O Lobo de Wall Street | Titanic | A Origem | O Regresso
+Quem dirigiu o filme "Pulp Fiction: Tempo de Violência"? | Filmes | 1 | Quentin Tarantino | Martin Scorsese | Steven Spielberg | Christopher Nolan
+Qual é o nome do filme em que Tom Hanks interpreta um náufrago em uma ilha deserta? | Filmes | 4 | O Resgate do Soldado Ryan | Forrest Gump | O Terminal | Náufrago
+Qual o nome da esposa de Rocky Balboa na saga "Rocky"? | Filmes | 4 | Anne | Mary | Shirley | Adrian
+Qual é o nome do filme em que Humphrey Bogart e Ingrid Bergman vivem um romance durante a Segunda Guerra Mundial? | Filmes | 2 | Um Corpo que Cai | Casablanca | O Poderoso Chefão | Lawrence da Arábia
+Quem dirigiu o filme "Clube da Luta"? | Filmes | 1 | David Fincher | David Lynch | Darren Aronofsky | Christopher Nolan
+Qual é o nome do filme em que Al Pacino interpreta um chefão do tráfico de drogas? | Filmes | 2 | Scarface | O Poderoso Chefão | Taxi Driver | O Lobo de Wall Street
+Qual o nome do Jedi que se tornou o Lord Sith conhecido como Darth Vader na saga "Star Wars"? | Filmes | 3 | Luke Skywalker | Obi-Wan Kenobi | Anakin Skywalker | Ben Solo
+Qual é o nome do filme em que Johnny Depp interpreta um pirata excêntrico? | Filmes | 1 | Piratas do Caribe | Edward Mãos de Tesoura | Alice no País das Maravilhas | Sweeney Todd
+Quem dirigiu o filme "O Silêncio dos Inocentes"? | Filmes | 2 | Ridley Scott | Jonathan Demme | David Lynch | Quentin Tarantino
+Quem é considerado o fundador da Apple? | Tecnologia | 1 | Steve Jobs | Bill Gates | Mark Zuckerberg | Elon Musk
+Qual é a empresa responsável pelo sistema operacional Windows? | Tecnologia | 3 | Google | Apple | Microsoft | Amazon
+Qual é o nome do assistente virtual desenvolvido pela Amazon? | Tecnologia | 2 | Siri | Alexa | Google Assistant | Cortana
+Qual é a rede social mais popular do mundo? | Tecnologia | 4 | LinkedIn | Instagram | Twitter | Facebook
+Quem é o CEO da Tesla e SpaceX? | Tecnologia | 2 | Jeff Bezos | Elon Musk | Tim Cook | Sundar Pichai
+Qual é o nome do sistema operacional desenvolvido pelo Google? | Tecnologia | 1 | Android | iOS | Windows | Linux
+Qual é a empresa responsável pelo navegador Chrome? | Tecnologia | 4 | Mozilla | Microsoft | Apple | Google
+Qual é a empresa responsável pelo motor de busca mais utilizado na Internet? | Tecnologia | 3 | Yahoo | Microsoft | Google | Bing
+Quem é o fundador da Microsoft? | Tecnologia | 2 | Jeff Bezos | Bill Gates | Mark Zuckerberg | Tim Cook
+Qual é a empresa responsável pelo iPhone? | Tecnologia | 1 | Apple | Samsung | Huawei | Xiaomi
+Qual é o país com a maior população do mundo? | Cultura Geral | 2 | China | Índia | Estados Unidos | Brasil
+Qual é a capital da França? | Cultura Geral | 1 | Paris | Londres | Roma | Tóquio
+Quem pintou a obra "A Última Ceia"? | Cultura Geral | 3 | Vincent van Gogh | Michelangelo | Leonardo da Vinci | Pablo Picasso
+Qual é o nome do prêmio mais importante do cinema? | Cultura Geral | 4 | Tony | Grammy | Emmy | Oscar
+Quem é o autor do livro "O Pequeno Príncipe"? | Cultura Geral | 2 | Franz Kafka | Antoine de Saint-Exupéry | Gabriel García Márquez | J.R.R. Tolkien
+Qual é a moeda oficial do Japão? | Cultura Geral | 1 | Iene | Yuan | Dólar | Euro
+Qual é o maior oceano do mundo? | Cultura Geral | 2 | Oceano Atlântico | Oceano Pacífico | Oceano Índico | Oceano Ártico
+Qual é o nome da estátua localizada no Rio de Janeiro, Brasil? | Cultura Geral | 3 | Colosso de Rodes | Estátua da Liberdade | Cristo Redentor | Grande Buda de Kamakura
+Quem escreveu a peça de teatro "Hamlet"? | Cultura Geral | 1 | William Shakespeare | Friedrich Nietzsche | Fyodor Dostoyevsky | Jane Austen
+Qual é a maior cadeia de montanhas do mundo? | Cultura Geral | 4 | Himalaias | Alpes | Montanhas Rochosas | Andes
